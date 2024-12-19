@@ -7,6 +7,7 @@ Welcome to the Online Fraud Detection project! This repository contains my work 
 Fraud detection is a critical challenge in the modern digital landscape. This project explores various machine learning techniques to identify fraudulent transactions with high accuracy. The focus is on experimenting with different models, analyzing their performance, and understanding trade-offs to choose the most efficient solution.
 
 🚀 Features
+
 Advanced ML Techniques: Implemented Logistic Regression, SVM, Random Forest, and XGBoost.
 
 Ensemble Models: Developed and compared Voting and Stacking classifiers for robust predictions.
