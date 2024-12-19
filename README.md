@@ -1,5 +1,6 @@
 # Online-Fraud-Detection
-Performance evaluation and comparison of conventional models and ensemble methods in online fraud detection
+Performance evaluation and comparison of conventional models and ensemble methods in online fraud detection.
+
 Welcome to the Online Fraud Detection project! This repository contains my work on building and comparing machine learning models to detect and prevent fraudulent activities online.
 
 📜 Overview
