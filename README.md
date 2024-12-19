@@ -8,7 +8,10 @@ Fraud detection is a critical challenge in the modern digital landscape. This pr
 
 🚀 Features
 Advanced ML Techniques: Implemented Logistic Regression, SVM, Random Forest, and XGBoost.
+
 Ensemble Models: Developed and compared Voting and Stacking classifiers for robust predictions.
+
 Evaluation Metrics: Precision-Recall, ROC Curve analysis, and other metrics for model performance.
+
 Data Preprocessing: Feature scaling, encoding, and handling imbalanced datasets.
 
